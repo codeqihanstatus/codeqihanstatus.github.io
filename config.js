@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '启涵的所有内容运行状态监控',
+  SiteName: '启涵的博客运行状态监控',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
